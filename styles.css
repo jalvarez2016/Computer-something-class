@@ -1,0 +1,19 @@
+#nav{
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    top:0px;
+}
+
+.nav-item{
+    position: relative;
+    padding-left: 20px;
+    padding-right: 20px;
+    float: left;
+    
+   
+}
+
+.nav-item :focus{
+    Background-color: grey;
+}
